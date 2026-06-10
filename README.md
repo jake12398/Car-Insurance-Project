@@ -34,7 +34,8 @@ This project models insurance risk and pricing using a structured dataset of cus
 - Pandas  
 - NumPy  
 - Matplotlib / Seaborn  
-- SQL  
+- SQL
+- Power BI
 
 ---
 
