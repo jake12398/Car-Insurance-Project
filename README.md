@@ -1,5 +1,5 @@
 # Insurance Pricing & Risk Analysis System
-![Status](https://img.shields.io/badge/status-work_in_progress-yellow)
+![Status](https://img.shields.io/badge/Status-Completed-green)
 ![Python](https://img.shields.io/badge/python-3.x-blue)
 ![SQL](https://img.shields.io/badge/SQL-database-lightgrey)
 ## Description  
